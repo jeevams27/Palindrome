@@ -22,8 +22,8 @@ When the condition is true display it as a palindrome,otherwise not a palindrome
 End of the Program.
 ## Program:
 ```
-Developed by: Paul Andrew D
-Reg no: 212221230075
+Developed by: JEEVA MS 
+Reg no: 212221230040
 ```
 ```c#
 using System;
